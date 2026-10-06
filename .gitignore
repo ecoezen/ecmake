@@ -1,0 +1,35 @@
+# generic
+.idea
+*.log
+tmp/
+build/
+
+# byte-compiled emacs lisp
+*.elc
+
+# package & devel
+.cask/
+.eask/
+.eldev/
+.keg/
+elpa/
+
+# metadata
+dist/
+*-autoloads.el
+*-pkg.el
+
+# Emacs user files, backups, auto-saves, and locks
+*~
+\#*\#
+.\#*
+.dir-locals-2.el
+
+#*#
+.#*
+auto-save-list/
+*.~undo-tree~
+
+# OS
+.DS_Store
+Thumbs.db
