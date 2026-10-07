@@ -18,7 +18,7 @@
 ;; See the README at the homepage above for setup and usage.
 ;;
 ;;; Code:
-
+(require 'ecmake-common)
 
 
 (provide 'ecmake)
