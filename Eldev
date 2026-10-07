@@ -3,3 +3,5 @@
 (eldev-use-package-archive 'gnu)
 (eldev-use-package-archive 'melpa)
 (eldev-use-plugin 'autoloads)
+
+(setf eldev-project-main-file "ecmake.el")
