@@ -1,0 +1,22 @@
+#+TITLE: eCMake — Modern, File API-driven CMake integration for GNU Emacs
+
+#+begin_quote
+*WIP*: This package is under active development (~v0.0.0~). Features and APIs are subject to change.
+#+end_quote
+
+* TODO Features
+* TODO Requirements
+
+- Emacs 29.1 or higher
+- CMake (4.3+)
+
+* TODO Installation
+* TODO Quick Start
+* TODO Key Commands
+
+| Command  | Keybinding | Description |
+|----------+------------+-------------|
+| ~ecmake-*~ | —          | —           |
+
+* License
+This project is licensed under the [[file:LICENSE][GNU General Public License v3.0 (GPL-3.0)]] — see the LICENSE file for details.
